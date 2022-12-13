@@ -2,3 +2,4 @@
 Krzysztof Noworyta
 Szynkaruk Michał
 Warda Karol
+Jan Sawicki
