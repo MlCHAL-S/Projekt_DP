@@ -1,5 +1,5 @@
 // dp1.cpp: Definiuje punkt wejścia dla aplikacji.
-// "Ver 1.1"
+// "Ver 1.0"
 
 #include "stdafx.h"
 #include "dp1.h"
@@ -27,6 +27,10 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 
     // TODO: W tym miejscu umieść kod.
 
+  	// Argument pointer check
+	  if (!lpCmdLine)
+		  return FALSE;
+  
     // Zainicjuj ciągi globalne
     LoadStringW(hInstance, IDS_APP_TITLE, szTitle, MAX_LOADSTRING);
     LoadStringW(hInstance, IDC_DP1, szWindowClass, MAX_LOADSTRING);
