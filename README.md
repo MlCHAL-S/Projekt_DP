@@ -1,5 +1,5 @@
 # Projekt_DP
-Krzysztof Noworyta
+Krzysztof Noworyta 
 Szynkaruk Michał
-Warda Karol
+Warsedfsfda Karol
 Jan Sawicki
